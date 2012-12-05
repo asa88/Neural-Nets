@@ -1,0 +1,1 @@
+ G= sum(sum(v_state*h_state'.*small_test_rbm_w'));

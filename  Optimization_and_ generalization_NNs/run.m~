@@ -1,0 +1,12 @@
+
+load data.mat
+wd_coefficient=0;
+ n_hid=0;
+ n_iters=0;
+ learning_rate=0;
+ momentum_multiplier=0;
+ do_early_stopping =false;
+ mini_batch_size=0;
+
+
+a3(wd_coefficient, n_hid, n_iters, learning_rate, momentum_multiplier, do_early_stopping, mini_batch_size)
